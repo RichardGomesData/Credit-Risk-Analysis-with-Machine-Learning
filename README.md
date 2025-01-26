@@ -63,7 +63,7 @@ O trabalho atendeu ao objetivo de construir e avaliar um modelo preditivo para i
 
 ## 5. Repositório GitHub
 Os códigos, dados e visualizações estão disponíveis no repositório GitHub:  
-[Link para o Repositório](#)
+[Link para o Repositório](https://github.com/RichardGomesData/Credit-Risk-Analysis-with-Machine-Learning)
 
 ---
 
