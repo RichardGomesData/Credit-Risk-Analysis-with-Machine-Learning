@@ -1,7 +1,7 @@
 # Credit Risk Analysis with Machine Learning
  Credit Risk Analysis with Machine Learning
 
-
+https://www.kaggle.com/code/richardgomes/credit-risk-analysis-with-machine-learning
 
 ## 1. Coleta de Dados
 Os dados utilizados neste projeto foram coletados de um repositório público no GitHub. O dataset contém informações sobre clientes, incluindo dados financeiros, características pessoais e comportamento relacionado ao uso de cartão de crédito.
